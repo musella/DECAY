@@ -1,0 +1,16 @@
+HACKED: Pasquale Musella to be able to decay a higgs 
+	pair to two different final states in successive runs
+
+IMPORTANT: this is strictly a SM Decay routine!!!
+AUTHOR: Fabio Maltoni
+NAME  : decay
+DESCRIPTION:
+c***********************************************************************
+c     1. reads events from file                                        *
+c     2. asks  which particle to decay                                 *
+c     3. asks  the decay mode                                          *
+c     4. decays particle                                               *
+c     5. write out decayed events.                                     *
+c***********************************************************************
+
+
